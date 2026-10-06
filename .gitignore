@@ -1,0 +1,17 @@
+/node_modules
+/dist
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Legacy pages are retained locally but are not part of the active NishaFlix app.
+/public/vite.svg
+/src/assets/
+/src/Common/
+/src/Deteails/
+/src/HomePages/
+/src/Landing/
+/src/Login/
+/src/SignUp/
